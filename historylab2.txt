@@ -1,0 +1,460 @@
+    1  mkdir publico
+    2  ls
+    3  cd publico/
+    4  touch archivo.txt
+    5  nano archivo.txt 
+    6  cat
+    7  cat archivo.txt 
+    8  man touch
+    9  cat archivo.txt 
+   10  mkdir control
+   11  cd control/
+   12  ls
+   13  sudo apt-get install git
+   14  su
+   15  ls
+   16  man rm
+   17  ls
+   18  su rm -r cursoasl
+   19  sudo rm -r cursoasl
+   20  sudo
+   21  su
+   22  git clone https://github.com/njgimenez/soporte.git
+   23  ls
+   24  cd soporte/
+   25  ls
+   26  touch prueba.md
+   27  ls
+   28  git commit -a
+   29  git add prueba.md 
+   30  git commit -a
+   31  ls
+   32  git commit -a
+   33  whoami
+   34  git config --global user.name "njgimenez"
+   35  git config --global user.email "njgimenez.gmail.com"
+   36  git commit -a
+   37  git push
+   38  cd ..
+   39  git clone https://github.com/njgimenez/gnulinux.git
+   40  cd gnulinux/
+   41  ls
+   42  touch readme.md
+   43  cat "apt-get install git" >readme.md
+   44  cat 'apt-get install git' >readme.md
+   45  nano readme.md 
+   46  nano readme.md
+   47  git commit -a
+   48  git add readme.md 
+   49  git commit -a
+   50  git push
+   51  ls
+   52  mkdir debian
+   53  cd debian/
+   54  touch debian.txt
+   55  touch fedora.txt
+   56  nano debian.txt 
+   57  nano fedora.txt
+   58  cd ..
+   59  git commit -a
+   60  ls
+   61  git add debian/
+   62  git commit -a
+   63  git push
+   64  cd debian/
+   65  ls
+   66  rm debian.txt 
+   67  touch debian.txt
+   68  nano debian.txt 
+   69  rm fedora.txt 
+   70  ls
+   71  git commit -a
+   72  git push
+   73  cd..
+   74  cd ..
+   75  git diff
+   76  mkdir Prueba
+   77  git diff
+   78  git commit -a
+   79  ls
+   80  git commit -a
+   81  git add Prueba/
+   82  git diff
+   83  cd Prueba/
+   84  touch archivo.txt
+   85  cd ..
+   86  git add Prueba/
+   87  git diff
+   88  git commit -a
+   89  ls
+   90  cd Prueba/
+   91  ls
+   92  nano archivo.txt 
+   93  cd ..
+   94  git add Prueba/
+   95  git diff
+   96  git commit -a
+   97  ls
+   98  cd Prueba/
+   99  ls
+  100  cat archivo.txt 
+  101  ls
+  102  commit -a
+  103  git commit -a
+  104  ls
+  105  git diff
+  106  nano archivo.txt 
+  107  git diff
+  108  nano archivo.txt 
+  109  git diff
+  110  cd..
+  111  cd ..
+  112  ls
+  113  cd ..
+  114  ls
+  115  git clone https://github.com/julioh/cursoasl.git
+  116  cd cursoasl/
+  117  ls
+  118  nano README.md
+  119  git commit -a
+  120  git push
+  121  git pull
+  122  cat README.md 
+  123  nano README.md
+  124  git commit -a
+  125  git push
+  126  git pull
+  127  nano README.md
+  128  git pull
+  129  cd ..
+  130  rm -r cursoasl/ 
+  131  rm -rf cursoasl/ 
+  132  git clone https://github.com/julioh/cursoasl.git
+  133  git pull
+  134  cd cursoasl/
+  135  git pull
+  136  nano README.md
+  137  git commit -a
+  138  git push
+  139  git pull
+  140  ls
+  141  git pull
+  142  cd
+  143  ls
+  144  cd publico/control/
+  145  ls
+  146  cd soporte/
+  147  ls
+  148  git clone https://github.com/julioh/cursoasl.git
+  149  cd cursoasl/
+  150  ls
+  151  git pull
+  152  nano README.md
+  153  git commit -a
+  154  git push
+  155  git pull
+  156  cd ..
+  157  rm -rf cursoasl/
+  158  ls
+  159  git clone https://github.com/julioh/cursoasl.git
+  160  git pull
+  161  git commit -a
+  162  git push
+  163  cd cursoasl/
+  164  cat README.md
+  165  nano README.md
+  166  git commit -a
+  167  git push
+  168  cd ..
+  169  rm -rf cursoasl/
+  170  ls
+  171  git clone https://github.com/julioh/cursoasl.git
+  172  ld
+  173  ls
+  174  cd cursoasl/
+  175  ls
+  176  cat README.md 
+  177  ls
+  178  nano README.md
+  179  git commit -a
+  180  git push
+  181  cd ..
+  182  rm -rf cursoasl/
+  183  ls
+  184  git clone https://github.com/julioh/cursoasl.git
+  185  ls
+  186  cd cursoasl/
+  187  ls
+  188  nano README.md
+  189  git commit -a
+  190  git push
+  191  gif pull
+  192  ls
+  193  git pull
+  194  nano README.md
+  195  git commit -a
+  196  git push
+  197  man ls
+  198  ls
+  199  cd publico/
+  200  ls
+  201  cd control/
+  202  ls
+  203  cd cursoasl/
+  204  ls
+  205  cd..
+  206  cd ..
+  207  ls
+  208  git init
+  209  git init nuevo
+  210  git push
+  211  git commit -a
+  212  git add cursoasl/
+  213  git add gnulinux/
+  214  git add soporte/
+  215  git commit -a
+  216  ls
+  217  git 
+  218  git remote add inicio https://github.com/njgimenez/nuevo.git
+  219  git commit -a
+  220  git push
+  221  git remote add inicio https://github.com/njgimenez/nuevo.git
+  222  git pull
+  223  git push
+  224  ls
+  225  cd nuevo/
+  226  ls
+  227  git pull
+  228  git push
+  229  git commit -a
+  230  ls
+  231  cd ..
+  232  git add nuevo/
+  233  ls
+  234  git push
+  235  git remote add inicio https://github.com/njgimenez/nuevo.git
+  236  git commit -a
+  237  touch nano.txt
+  238  ls
+  239  cd nuevo/
+  240  touch listo.txt
+  241  git remote add inicio https://github.com/njgimenez/nuevo.git
+  242  git commit -a
+  243  git push
+  244  ls
+  245  cd cursoasl/
+  246  gedit
+  247  gedit NELSON\ GIMENEZ.txt
+  248  kernel
+  249  history
+  250  ls -al /home/lab2/ > archivo.txt echo "Listo"> /archivo.txt
+  251  ls -al /home/lab2/ > archivo.txt echo "Listo"> /home/lab2/archivo.txt
+  252  mc
+  253  ms
+  254  df
+  255  df --help
+  256  df
+  257  mkdir Nelson && touch Nelson/c1 && touch Nelson/c2 && touch Nelson/c3 && echo "Nelson Gimenez" >> c1 && echo "13188897" >> c2 && echo "njgimenez@gmail.com">> c3
+  258  cd Nelson/
+  259  ls
+  260  cat c1
+  261  cat c2
+  262  cat c3
+  263  echo "arriba"
+  264  echo "Nelson Gimenez" > c1 && echo "13188897" > c2 && echo "njgimenez@gmail.com"> c3
+  265  cat c3
+  266  cat c2
+  267  cat c1
+  268  ls -al /home/lab2/ > archivo.txt echo "Listo"> /home/lab2/archivo.txt
+  269  l /home/lab2/ > archivo.txt && echo "Listo"> /home/lab2/archivo.txt
+  270  cat /proc/meminfo 
+  271  LS
+  272  cat /proc/meminfo 
+  273  cat /proc/meminfo >> memoria.txt
+  274  ls memoria.txt 
+  275  cat memoria.txt 
+  276  am
+  277  uam
+  278  history
+  279  git config --global user.email "njgimenez.gmail.com"
+  280  uname --h
+  281  uname --help
+  282  uname --a
+  283  uname --a >> kernel.txt
+  284  cat kernel.txt 
+  285  du -sh /home/
+  286  du -h-s /home/
+  287  du -h -s /home/
+  288  cd ..
+  289  ls
+  290  git add NELSON\ GIMENEZ.txt
+  291  git push
+  292  git pull
+  293  ls
+  294  git add NELSON\ GIMENEZ.txt
+  295  git commit -a
+  296  ls
+  297  rd -R Nelson/
+  298  rm -R Nelson/
+  299  ls
+  300  rm c*.*
+  301  rd 
+  302  rm c*
+  303  ls
+  304  rm nelson.txt 
+  305  ls
+  306  rm archivo.txt 
+  307  git pull
+  308  ls
+  309  git commit -a
+  310  rm firefox.txt 
+  311  git pull
+  312  git commit -a
+  313  git add .
+  314  git commit -a
+  315  git push
+  316  cat NELSON\ GIMENEZ.txt
+  317  df -h
+  318  df
+  319  ssh root@yarasoft.com.ve
+  320  su
+  321  su
+  322  su
+  323  git clone https://github.com/njgimenez/actividadcursoasl.git
+  324  cd ..
+  325  ls
+  326  cd cursoasl/
+  327  ls
+  328  cp evaluacion.txt actividadcursoasl/evaluacion.txt
+  329  ls
+  330  cd actividadcursoasl/
+  331  ls
+  332  mv evaluacion.txt nelsongimenez.txt
+  333  ls
+  334  git commit 
+  335  git add 
+  336  git add *.*
+  337  git commit 
+  338  git commit -a
+  339  git push
+  340  touch curso1.txt && touch curso2.txt && touch curso3.txt && touch curso4.txt && touch curso5.txt
+  341  ls
+  342  chmod curso1.txt 065 && chmod curso2.txt 726 && chmod curso3.txt 111
+  343  chmod curso1.txt 065
+  344  sudo chmod curso1.txt 065
+  345  su chmod curso1.txt 065
+  346  su
+  347  chmod 065 curso1.txt
+  348  chmod 726 curso2.txt
+  349  chmod 111 curso3.txt
+  350  chmod 227 curso4.txt
+  351  chmod 064 curso5.txt
+  352  ls -la
+  353  dt
+  354  du
+  355  dl
+  356  dt
+  357  df
+  358  df -sh
+  359  df -hs
+  360  df -h -s
+  361  df -s -h
+  362  df -s-h
+  363  df -h
+  364  mk cunaguaro
+  365  mkdir cunaguaro
+  366  cd cunaguaro/
+  367  ls
+  368  ps -a}
+  369  ps -a
+  370  ps -all
+  371  ps --help
+  372  ps --o
+  373  ps --help
+  374  ps output
+  375  ps -output
+  376  ps --output
+  377  top
+  378  top -a}
+  379  top -a
+  380  top -h
+  381  top -hv
+  382  top --help
+  383  top --h
+  384  top -h
+  385  top |grep cunaguaro
+  386  top-h |grep cunaguaro
+  387  top -h
+  388  top -hv
+  389  top -d
+  390  ps all
+  391  ps -help
+  392  ps --help
+  393  ps --help o
+  394  ls
+  395  ps -all
+  396  ps -a
+  397  ps -all
+  398  ps -aux |grep cunaguaro
+  399  ps --help
+  400  ps -aux |grep cunaguaro >> cat cunaguaro.txt
+  401  ps -aux |grep cunaguaro >> cunaguaro.txt
+  402  ps -aux |grep cunaguaro > cunaguaro.txt
+  403  ps -aux |grep cunaguaro > cat cunaguaro.txt
+  404  ps -aux |grep cunaguaro
+  405  ls
+  406  nano cunaguaro.txt 
+  407  rm cat 
+  408  ls
+  409  rm cunaguaro.txt 
+  410  ls
+  411  ps -aux |grep cunaguaro > cunaguaro.txt
+  412  ls
+  413  cat cunaguaro.txt 
+  414  ls
+  415  cd ..
+  416  mkdir kernel 
+  417  ps -aux |grep kernel
+  418  ps -aux
+  419  cd kernel/
+  420  ls
+  421  ps -aux |grep kernel
+  422  ps -aux |grep kernel > kernel.txt
+  423  ls
+  424  cat kernel
+  425  cat kernel.txt 
+  426  nano /etc/network/interfaces 
+  427  cd ..
+  428  mv kernel/ kernel1.0/
+  429  ls
+  430* 
+  431  ps -aux >  examen.txt
+  432  ls
+  433  more examen.txt 
+  434  ls
+  435  mkdir sl
+  436  ls
+  437  cd sl
+  438  apt-get source sl
+  439  ls
+  440  cd sl-3.03/
+  441  ls
+  442  nano sl.h 
+  443  cd debian/
+  444  ls
+  445  cd ..
+  446  ls
+  447  dpkg-buildpackage -h
+  448  dpkg-buildpackage -us -uc
+  449  ls
+  450  dpkg-buildpackage -us -uc
+  451  cd sl-3.03/
+  452  dpkg-buildpackage -us -uc
+  453  sl
+  454  aptitude remove --purge sl
+  455  su 
+  456  ls
+  457  history 
+  458  cd ..
+  459  ls
+  460  history >> historylab2.txt 

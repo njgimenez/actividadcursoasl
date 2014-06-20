@@ -20,12 +20,8 @@ history -c
  -curso5.txt   ---RW-R--
 
 6-Como puedo visualizar las particiones del disco duro
-  
-	df -h
 
 7-Como matamos un proceso del computador
-
- kill -9 <<id del proceso>>
 
 8-Crear un carpeta llamada cunaguaro.
   -abrir cunaguaro
@@ -37,28 +33,18 @@ history -c
 
 10-Como configuras una interfaz de red con dhcp
 
-editamos el archivo de configuracion de red
-con:
-
-nano /etc/network/interfaces
- 
-y modificamos a la opcion de dchp en el eth0 grabamos, salimos
-
-y restauramos la red con
-
-/etc/init.d/networking restart
-
-
 11-Que sucede cuando ejecutas el
 comando: touch registros
-
+- Copia el archivo registros al directorio actual.
 -Crea un archivo vacío llamado registros.
-
+-Borra el archivo registros.
+-Mueve el archivo registros al directorio actual
 
 12-El comando: more examen
-
 - Despliega el contenido del archivo examen, una pantalla a la vez.
-
+- Nos cambia al directorio examen.
+- Crea el archivo examen el directorio actual.
+- Muestra las primeras líneas del archivo examen
 
 13-crear un carpeta sl
 descargar el paquete fuente de sl, modificar el tren 
@@ -67,20 +53,9 @@ subir dichos paquetes al servidor de github
 
 14-comando para listar redes inalambricas.
 
-ifconfig wlan0
-
-
 15-como funcionan x11vnc, pasos del cliente y servidor
 
-instalamos x11vnc, corremos el servicio en la maquina remota, en la maquina local instalamos
-el xtightvncviewer y lo ejecutamos y colocamos la ip de la maquina remota
-
-
 16- Como agregamos el usuario y gestionamos el cambio de contraseña
-
-agregamos con adduser
-
-y gestionamos la clave con passwd
 
 17-crear un carpeta canaima-semilla, copiar un sabor desde primera-base
   llamarlo con el nombre de ustedes, editarlo todos los perfil personalizado.
@@ -93,23 +68,7 @@ y gestionamos la clave con passwd
 19- Las particiones de un disco se nombran mediante el nombre de dispositivo y el
 número de partición:
 
-HDA1 HDA2 HDA3 HDA4
-HDB1
-HDC1
-HDD1
-
-SDA1
-SDA2
-SDA3
-SDA4
-SDA5
-SDA6
-
 20- Como hago un repositorio con debmirror, comando.
-
-
-debmirror -a i386 -h <direcion del repositorio>>
-
 
 21- Guardar el history en .txt para verificar todo lo anterior fue realizado por ti.
 

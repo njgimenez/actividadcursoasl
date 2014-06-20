@@ -1,0 +1,1 @@
+c-s construir --arquitectura="i386" --sabor="hpediatrico"

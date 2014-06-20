@@ -1,0 +1,344 @@
+    1  aptitude install build-essential
+    2  aptitude install build-essential
+    3  aptitude install build-essential
+    4  aptitude install build-essential
+    5  nano /etc/bash.bashrc
+    6  aptitude install build-essential
+    7  aptitude install build-essential
+    8  nano /etc/apt/apt.conf
+    9  aptitude install build-essential
+   10  apt-get update
+   11  apt-get update
+   12  aptitude update
+   13  apt-get install git
+   14  git clone https://github.com/julioh/cursoasl.git
+   15  ls
+   16  cd cursoasl/
+   17  ls
+   18  ls
+   19  cat README.md 
+   20  cd ..
+   21  git clone https://github.com/njgimenez/soporte.git
+   22  exit
+   23  rm -r cursoasl/
+   24  exit
+   25  aptitude install sl
+   26  exit
+   27  aptitude install inkscape
+   28  ls
+   29  ls -h
+   30  ls -la
+   31  aptitude install gimp
+   32  ls
+   33  cp -R Documentos/ Respaldo
+   34  ls
+   35  cd Respaldo/
+   36  ls
+   37  history
+   38  whois 200.11.239.191
+   39  whois
+   40  exit
+   41  aptitude install bb
+   42  bb
+   43  exit
+   44  bmo
+   45  bmon
+   46  ls
+   47  ls
+   48  ls
+   49  cd /home/
+   50  ls
+   51  cd lab2/
+   52  mkdir
+   53  mkdir bmon
+   54  cd bmon
+   55  ls
+   56  apt-get source bmon
+   57  dpkg-source -x
+   58  dpkg-source -x bmon_2.0.1-3.dsc
+   59  dpkg-source -x
+   60  dpkg-source -x bmon_2.0.1-3.dsc
+   61  dpkg-source -x
+   62  dpkg-source //commit
+   63  dpkg-source --commit
+   64  aptitude install dpkg-source
+   65  aptitude install dpkg-dev
+   66  apt-get source bmon
+   67  ls
+   68  cd bmon-2.0.1/
+   69  ls
+   70  cd src/
+   71  ls
+   72  nano out_ascii.c 
+   73  cd ..
+   74  ls
+   75  dpkg-buildpackage -us -uc
+   76  aptitude install gcc
+   77  exit
+   78  adduser lab
+   79  ls /home/
+   80  deluser lab
+   81  ls /home/
+   82  ls /home/
+   83  adduser lab
+   84  ls /home/
+   85  ps
+   86   ps -out | grep tty
+   87   ps -aux | grep tty
+   88   kill -9 7355
+   89   ps -aux | grep tty
+   90   kill -9 9634
+   91   ps -aux | grep 
+   92   ps -aux | grep tty
+   93   kill -9 9677
+   94   ps -aux | grep tty
+   95   kill -9 9680
+   96   ps -aux | grep tty
+   97   ps -aux | grep tty
+   98   ps -aux | grep tty
+   99   ps -aux | grep tty
+  100   ps -aux | grep tty
+  101   ps -aux | grep tty
+  102  kill -9 2473 2474 2475 9667 9672
+  103   ps -aux | grep tty
+  104  kill -9 10020
+  105   ps -aux | grep tty
+  106  nano /etc/group
+  107  cd /etc/
+  108  vi sudoers
+  109  visudo
+  110  visudo
+  111  vi sudoers
+  112  fdisk -l
+  113  cd ..
+  114  ls
+  115  cd media/
+  116  ls
+  117  cd ..
+  118  cd mnt/
+  119  ls
+  120  cd ..
+  121  cd media/
+  122  ls
+  123  cd cdrom0/
+  124  ls
+  125  cfdisk
+  126  exit
+  127  aptitude search  canaima-acerca
+  128  aptitude search  canaima-acerca
+  129  aptitude search  canaima-a
+  130  aptitude search  canaima-acerca-g
+  131  apt-get install canaima-acerca
+  132  ls
+  133  ls
+  134  cd home/
+  135  lsd
+  136  ls
+  137  cd lab2
+  138  ls
+  139  cd cursoasl/
+  140  ls
+  141  mkdir canaima
+  142  cd canaima/
+  143  ls
+  144  git clone https://github.com/njgimenez/paquetescanaima.git
+  145  ls
+  146  cd paquetescanaima/
+  147  ls
+  148  pwd
+  149  exit
+  150  exit
+  151  cd /usr/share/canaima-semilla/
+  152  ls
+  153  ls isos/
+  154  tailf isos/build.201406200852.log 
+  155  dpkg -i /home/lab2/Descargas/lwks-11.5.1-amd64.deb 
+  156  lightworks 
+  157  apt-get remove --purge lightworks 
+  158  lightworks 
+  159  dpkg -i /home/lab2/Descargas/lwks-11.5.1-amd64.deb 
+  160  apt-get remove --purge lightworks 
+  161  dpkg -i /home/lab2/Descargas/lwks-11.5.1-amd64.deb 
+  162  apt-get install libc6-dev=2.17-7
+  163  apt-get install libc6-dev=2.17-7
+  164  nano /etc/apt/sources.list
+  165  apt-get update
+  166  apt-get install libc6-dev=2.17-7
+  167  apt-get install libc6-dev
+  168  apt-get -f install
+  169  apt-get install libc6-dev
+  170  aptitude show libc6-dev
+  171  x11vnc
+  172  x11vnc
+  173  ch root
+  174  chroot
+  175  ls
+  176  cd isos/
+  177  ls
+  178  cd chroot/
+  179  ls
+  180  ls
+  181  chroot
+  182  chroot chroot
+  183  cd ..
+  184  chroot chroot
+  185  apt-get remove --purge lightworks
+  186  dpkg l
+  187  dpkg --help
+  188  dpkg -l
+  189  dpkg -l |grep libc
+  190  dpkg -l |grep libc6
+  191  apt-get remove --purge libc6
+  192  dpkg -i /home/lab2/Descargas/libc6_2.19-1_amd64.deb 
+  193  dpkg --hep
+  194  dpkg --help
+  195  dpkg -i -B /home/lab2/Descargas/libc6_2.19-1_amd64.deb 
+  196  dpkg -i /home/lab2/Descargas/libc6_2.19-1_amd64.deb 
+  197  dpkg -i /home/lab2/Descargas/lwks-11.5.1-amd64.deb 
+  198  aptitude show kdenlive
+  199  aptitude install kdenlive
+  200  aptitude install nvidia-cg-toolkit
+  201  aptitude install libc6:amd64
+  202  aptitude install libc6
+  203  aptitude search libc6
+  204  aptitude search libc6-i386
+  205  aptitude install libc6-i386
+  206  aptitude install libportaudiocpp0
+  207  aptitude install libcurl3
+  208  aptitude show libc6
+  209  ssh
+  210  aptitude show libc6
+  211  aptitude install tightvncviewer
+  212  nano /etc/apt/sources.list
+  213  apt-get update
+  214  aptitude install tightvncviewer
+  215  aptitude install xtightvncviewer
+  216  aptitude install xtightvncviewer -viewonly
+  217  xtightvncviewer -viewonly
+  218  xtightvncviewer -viewonly
+  219  arp-scan 
+  220  aptitude install arp
+  221  aptitude install arp-scan
+  222  arp-scan 
+  223  arp-scan 
+  224  arp-scan --interface=eth0 --127.0.0.1
+  225  arp-scan --interface=eth0 --localnet
+  226  arp-scan --interface=eth0 --localnet
+  227  arp-scan --interface=wlan0 --localnet
+  228  arp-scan --interface=eth0 --localnet
+  229  xtightvncviewer --help
+  230  aptitude install nmap
+  231  nmap 
+  232  nmap -A -T4 172.16.1.99
+  233  nmap -A -T4 172.16.1.62
+  234  nmap -A -T4 http://172.16.1.62
+  235  nmap -A  http://172.16.1.62
+  236  nmap -A  172.16.1.62
+  237  nmap -A  172.16.1.63
+  238  nmap -A  172.16.1.63
+  239  nmap -A  172.16.1.99
+  240  nmap -A  172.16.1.99
+  241  nmap -A  172.16.1.73
+  242  nmap -A  172.16.1.123
+  243  nmap -A  172.16.1.163
+  244  nmap -A  172.16.1.63
+  245  cd /etc/init.d/
+  246  ls
+  247  aptitude install ssh
+  248  nano /etc/ssh/sshd_config 
+  249  /etc/init.d/ssh restart
+  250  nmap 172.16.1.58
+  251  nmap 172.16.1.58
+  252  nano /etc/ssh/sshd_config 
+  253  /etc/init.d/ssh restart
+  254  nmap 172.16.1.58
+  255  nmap 172.16.1.58
+  256  nano /etc/ssh/ssh_config 
+  257  /etc/init.d/ssh restart
+  258  nmap 172.16.1.58
+  259  nmap 172.16.1.58
+  260  apt-get -t testing install libc6-dev
+  261  apt-get -t install libc6-dev
+  262  apt-get install libc6-dev
+  263  nano /etc/ssh/sshd_config
+  264  nano /etc/ssh/ssh_config 
+  265  /etc/init.d/ssh restart
+  266  nmap 172.16.1.58
+  267  nmap -A -AT 172.16.1.58
+  268  nmap -A 172.16.1.58
+  269  nmap -A 172.16.1.58
+  270  nmap -A -T4 172.16.1.58
+  271  nmap  -T4 172.16.1.58
+  272  nmap  -T4 172.16.1.58
+  273  history
+  274  exit
+  275  history
+  276  exit
+  277  history
+  278  history
+  279  history>>cat /home/lab2/Escritorio/comandos.txt
+  280  ls
+  281  history >> cat /home/lab2/Escritorio/comandos.txt
+  282  exit
+  283  ls
+  284  chmod curso1.txt 065
+  285  chmod 065 curso1.txt
+  286  cd..
+  287  exit
+  288  aptitude remove --purge sl
+  289  aptitude remove sl
+  290  ls
+  291  cd ..
+  292  ls
+  293  cd ..
+  294  ls
+  295  cd sl/
+  296  ls
+  297  cd ..
+  298  ls
+  299  git add sl/
+  300  ls
+  301  git commit 
+  302  git push
+  303  ifconfig wlan0
+  304  ifconfig wlan0
+  305  ls
+  306  mkdir canaima-semilla
+  307  ls cana
+  308  ls canaima-semilla/
+  309  cd canaima-semilla/
+  310  ls
+  311  cp /usr/share/canaima-semilla/profiles/primera-base/ hpediatrico/
+  312  ls
+  313  cp /usr/share/canaima-semilla/profiles/primera-base/ hpediatrico/
+  314  cd /usr/share/canaima-semilla/profiles/primera-base/ hpediatrico/
+  315  ls
+  316  cd ..
+  317  ls
+  318  cp primera-base/ /home/lab2/evaluacion/cursoasl/actividadcursoasl/canaima-semilla/hpediatrico/
+  319  ls
+  320   cp primera-base/ hpediatrico2/
+  321  cd /home/lab2/evaluacion/cursoasl/actividadcursoasl/canaima-semilla/hpediatrico/
+  322  cd /home/lab2/evaluacion/cursoasl/actividadcursoasl/canaima-semilla/hpediatrico/
+  323  cd /home/lab2/evaluacion/cursoasl/actividadcursoasl/canaima-semilla/
+  324  cp -r /usr/share/canaima-semilla/profiles/primera-base/ hpediatrico/
+  325  ls
+  326  cd hpediatrico/
+  327  nano profile.conf 
+  328  cd ..
+  329  ls
+  330  git add hpediatrico/
+  331  nano creacion.txt
+  332  c-s --help
+  333  c-s construir --help
+  334  nano creacion.txt
+  335  cd.. 
+  336  cd ..
+  337  git add canaima-semilla/
+  338  aptitude show debmirrow
+  339  aptitude show debmirror
+  340  aptitude show debmirror
+  341  aptitude install debmirror
+  342  man debmirror 
+  343  man debmirror 
+  344  history >> history.txt
